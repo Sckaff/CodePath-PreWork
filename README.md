@@ -38,7 +38,7 @@ The "Roll-the-Dice" app feature is a modified version of a [Kotlin Basics](https
 
 ## License
 
-    Copyright by Fernando Sckaff
+    Copyright by Fernando Sckaff [2022]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
