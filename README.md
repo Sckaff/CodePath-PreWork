@@ -4,7 +4,7 @@ Submitted by: **Fernando Sckaff**
 
 **CodePath** is an android app that shows an image and introductory message, allows pressing a button to display a Toast, and more.
 
-Time spent: **12** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
@@ -16,11 +16,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Navigation bar at the top of the app
-* [x] About me page that can be accessed on the menu icon at the nav bar
-* [x] Roll-the-dice page that can be accessed on the menu icon at the nav bar
-* [x] Include a "go back home" feature at the top-right of the Roll-the-dice and About Me pages
-* [x] Include a CodePath fan button at the main page's nav bar that displays a toast
+* [x] Changed the color of the app to a warm green
+* [x] Updated the navigation bar at the top of the app
+* [x] Added an "About Me" page that can be accessed on the menu icon at the nav bar
+* [x] Add an "Roll-The-Dice" page that can be accessed on the navigation bar
+* [x] Included a "go back home" feature at the top-right of the "Roll-The-Dice" and "About Me" pages
+* [x] Included a CodePath fan button at the navigation bar of the home page that displays a toast
 
 ## Video Walkthrough
 
