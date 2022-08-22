@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodePath</string>
+    <string name="intro_button">Say Hello!</string>
+    <string name="intro_text">Hello CodePath, this is my pre-work app for the Intermediate Android Development Course. Click on the button below to say hi, and find more about the app on the menu bar at the top!</string>
+    <string name="roll">Roll me!</string>
+    <string name="aboutIntro1">Hello! My name is Fernando Sckaff. I am an international student from Brazil. \nFun Fact - My favorite food is sushi.</string>
+    <string name="aboutIntro2">This past summer I had the privilege to enter the Station1 Frontiers Fellowship, and do an internship with BEAM Diagnostics, Inc.</string>
+    <string name="aboutIntro3">Also, since the beginning of 2022, I have been doing cancer research in the Lamba Laboratory at the Pharmacy College at UF.</string>
+    <string name="brazil_flag">Brazil Flag</string>
+    <string name="beam_logo">BEAM Diagnostics logo</string>
+    <string name="sushi_picture">Picture of a sushi</string>
+    <string name="uf_logo">Logo of the University of Florida</string>
+    <string name="station_1_logo">Logo of Station1 Frontiers Fellowship</string>
+</resources>
