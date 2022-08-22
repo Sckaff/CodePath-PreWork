@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./app_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='./app_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width='30%' height='30%>
 
 GIF created with [Android Studio's](https://developer.android.com/studio) AVD recording feature.  
 
