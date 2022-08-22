@@ -4,7 +4,7 @@ Submitted by: **Fernando Sckaff**
 
 **CodePath** is an android app that shows an image and introductory message, allows pressing a button to display a Toast, and more.
 
-Time spent: **8** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
